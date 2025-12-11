@@ -193,16 +193,6 @@ Large items **NOT uploaded** to repo:
 
 ---
 
-## 🧠 **Future Improvements**
-
-* Multi-view reconstruction
-* Integrate PointNet or NeRF-based reconstruction
-* Transformer-based 3D reasoning
-* Higher-resolution voxels (64³, 128³)
-* Mesh refinement networks
-
----
-
 ## 📚 **References**
 
 1. **Pix3D Dataset** — Sun et al. *"Pix3D: Dataset and Methods for Single-View 3D Reconstruction"*, CVPR 2018
@@ -210,5 +200,6 @@ Large items **NOT uploaded** to repo:
 3. PyTorch Documentation — [https://pytorch.org](https://pytorch.org)
 4. Trimesh Library — [https://trimsh.org](https://trimsh.org)
 5. Kingma & Ba — *Adam Optimizer*
+
 
 
