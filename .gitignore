@@ -1,0 +1,18 @@
+# Ignore datasets
+pix3d/
+dataset/
+
+# Ignore trained models & results
+results/
+
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore large mesh outputs
+*.ply
+
+# Ignore temp files
+*.log
